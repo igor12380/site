@@ -1,2 +1,7 @@
-body {
-  background: yellow; }
+.social-icons {
+  font-size: 24px; }
+  .social-icons .fa-facebook {
+    color: #00f; }
+
+.column-inner {
+  clear: both; }
